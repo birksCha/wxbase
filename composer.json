@@ -1,0 +1,14 @@
+{
+    "name": "birks/wxbase",
+    "description": "wx base api composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "birksCha",
+            "email": "3238351902@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
